@@ -19,5 +19,10 @@ Sentiment Analysis
 
 # Supervised Learning
 1. K Nearest Neighbours
-without using scikit-learn [Link](../master/KNN/KNN_without_scikit.ipynb)
-using scikit-learn [Link](../master/KNN.ipynb)
+  a. without using scikit-learn [Link](../master/KNN/KNN_without_scikit.ipynb)
+  b. using scikit-learn [Link](../master/KNN.ipynb)
+  
+2. Decision Tree [Link](../master/Decision Tree Classifier.ipynb)
+3. Naive Bayes [Link](../master/Naive Bayes.ipynb)
+4. Sentiment Analysis using Naive Bayes [Link](../master/SentimentAnalysis/Sentiment_Analysis.ipynb)
+5. Random Forest [Link](../master/Random_Forest.ipynb)
