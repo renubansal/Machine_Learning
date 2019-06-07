@@ -4,11 +4,15 @@
 Machine learning algorithm on csv file
 
 ### Datasets used:
-[iris.data](../blob/master/LICENSE)
-iris.data
-bank.csv
-socialnetwork.csv
+Visualization
+[iris.data](../blob/master/DataVisualization/iris.data)
+[bank.csv](../blob/master/DataVisualization/bank.csv)
+
+Networkx
 1991.tsv
+
+ML models
+socialnetwork.csv
 
 # Supervised Learning
 1. K Nearest Neighbours
