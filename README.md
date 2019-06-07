@@ -17,6 +17,13 @@ ML models
 Sentiment Analysis
 1. [train.tsv](../master/SentimentAnalysis/train.tsv)
 
+## Data Visualization
+1. [1](../master/DataVisualization/data_analysisv1.ipynb)
+2. [2](../master/DataVisualization/data_analysisv2.ipynb)
+
+## Networkx
+[Link](../master/networkx/basic_networkx.ipynb)
+
 # Supervised Learning
 1. K Nearest Neighbours
   a. without using scikit-learn [Link](../master/KNN/KNN_without_scikit.ipynb)
