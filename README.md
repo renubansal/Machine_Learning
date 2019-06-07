@@ -22,7 +22,7 @@ Sentiment Analysis
   a. without using scikit-learn [Link](../master/KNN/KNN_without_scikit.ipynb)
   b. using scikit-learn [Link](../master/KNN.ipynb)
   
-2. Decision Tree [Link](../master/Decision Tree Classifier.ipynb)
-3. Naive Bayes [Link](../master/Naive Bayes.ipynb)
+2. Decision Tree [Link](../master/DecisionTreeClassifier.ipynb)
+3. Naive Bayes [Link](../master/NaiveBayes.ipynb)
 4. Sentiment Analysis using Naive Bayes [Link](../master/SentimentAnalysis/Sentiment_Analysis.ipynb)
 5. Random Forest [Link](../master/Random_Forest.ipynb)
