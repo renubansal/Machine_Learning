@@ -19,3 +19,5 @@ Sentiment Analysis
 
 # Supervised Learning
 1. K Nearest Neighbours
+without using scikit-learn [Link](../master/KNN/KNN_without_scikit.ipynb)
+using scikit-learn [Link](../master/KNN.ipynb)
