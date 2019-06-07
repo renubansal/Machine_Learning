@@ -33,3 +33,4 @@ Sentiment Analysis
 3. Naive Bayes [Link](../master/NaiveBayes.ipynb)
 4. Sentiment Analysis using Naive Bayes [Link](../master/SentimentAnalysis/Sentiment_Analysis.ipynb)
 5. Random Forest [Link](../master/Random_Forest.ipynb)
+6. Logistic Regression [Link](../master/Logistic_Regression.ipynb)
