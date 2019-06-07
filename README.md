@@ -5,8 +5,9 @@ Machine learning algorithm on csv file
 
 ### Datasets used:
 Visualization
-[iris.data](../blob/master/DataVisualization/iris.data)
-[bank.csv](../blob/master/DataVisualization/bank.csv)
+[iris.data](../master/DataVisualization/iris.data)
+
+[bank.csv](../master/DataVisualization/bank.csv)
 
 Networkx
 1991.tsv
