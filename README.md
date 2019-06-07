@@ -12,9 +12,9 @@ ML models [socialnetwork.csv](../master/Social_Network_Ads.csv)
 
 Sentiment Analysis [train.tsv](../master/SentimentAnalysis/train.tsv)
 
-## Data Visualization [part 1](../master/DataVisualization/data_analysisv1.ipynb) ---- [part 2](../master/DataVisualization/data_analysisv2.ipynb)
+### Data Visualization [part 1](../master/DataVisualization/data_analysisv1.ipynb) ---- [part 2](../master/DataVisualization/data_analysisv2.ipynb)
 
-## Networkx [basic Link](../master/networkx/basic_networkx.ipynb)
+### Networkx [basic Link](../master/networkx/basic_networkx.ipynb)
 
 # Supervised Learning
 ##### K Nearest Neighbours
